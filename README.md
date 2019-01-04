@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 git-done
 ========
 
@@ -83,3 +84,6 @@ Multiple tasks can be marked done, and ```git done``` will concatenate them sepa
 Use ```git done -p``` to preview the commit message without performing the commit.
 
 Use vim? Include some sweet syntax highlighting: https://gist.github.com/staltz/6595113
+=======
+# vtiger7
+>>>>>>> 22c14fae885fa6d1bbb715a7b95c97182295f80c
